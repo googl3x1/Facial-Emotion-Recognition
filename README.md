@@ -44,7 +44,7 @@ This project aims to recognize human emotions from facial images using computer 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Rehanabbaxi/Facial-Emotion-Recognition.git
+git clone https://github.com/googl3x1/Facial-Emotion-Recognition.git
 cd Facial-Emotion-Recognition
 ```
 
